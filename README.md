@@ -1,2 +1,6 @@
 # Judo-Project
-In May 1882 Jigoro Kano was inspired by traditional forms of combat to create a method of physical, intellectual and moral education, which he named judo.
+Kodokan Judo
+
+Judo techniques were divided into three categories: throws or nage waza, controls or katame waza and kicks or atemi waza. In competition, atemi waza are not allowed.
+
+Judo is taught through randori, free practice, kata, imposed forms, and mondo, exchanges based on the values, the philosophy or any subject related to judo, between the students and their teacher.
