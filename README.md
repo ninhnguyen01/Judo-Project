@@ -1,8 +1,15 @@
 # Judo-Project
+
 Kodokan Judo
 
-Judo techniques were divided into three categories: throws or nage waza, controls or katame waza and kicks or atemi waza. In competition, atemi waza are not allowed.
+Jujutsu: The Kano Method 
 
-Judo is taught through randori, free practice, kata, imposed forms, and mondo, exchanges based on the values, the philosophy or any subject related to judo, between the students and their teacher.
+In the early twentieth century, the Western world discovered the artistic beauty and the military power of Japanese civilization and the effectiveness of strong Japanese soldiers based on their warrior spirit, the bushido, and their fighting techniques, Jujutsu. In many countries, the Japanese art is introduced in military curriculum. Jujutsu also appears on the stage of music halls, circuses and fairs.
+
+Jujutsu in the World
+
+In the USA and in many countries of the world, Jujutsu first spreads in the army and the police. At the same time, the martial art is taught in fitness centers (Sandow in England Desbonnet in France, the McFadden in the USA, etc.)
+
+Source: IJF
 
 <img src="asset/Judo Style.jpeg" height=300 width=300>
