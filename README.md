@@ -16,4 +16,5 @@ Official sporting events started to take place in the early 20th century. And wa
 
 Source: IJF
 
+-- Comparison of Judo and Descendant Arts -- <br>
 <img src="asset/Judo Style.jpeg" height=300 width=300>
