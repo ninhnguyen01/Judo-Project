@@ -25,6 +25,6 @@ Source: Internet<br><br>
 <ul>
  <li>Top Left: Standing ude-garami defense against sword wielder</li>
  <li>Top Right: Ippon Seoi nage</li>
- <li>Bottom Left: Obi tori gaeshi counter</li>
+ <li>Bottom Left: Obi tori gaeshi</li>
  <li>Bottom Right: Inasu</li>
 </ul>
